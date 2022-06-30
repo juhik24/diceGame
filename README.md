@@ -1,1 +1,1 @@
-Click on this Link to view the website - http://juhisharma.me/diceGame/
+Click on this Link to view the website -  http://juhik24.github.io/diceGame/
